@@ -31,7 +31,7 @@ Track and visualize the global impact of COVID-19 with data on cases, recoveries
 ![COVID-19 Dashboard Screenshot](#) *(![covid 19](https://github.com/user-attachments/assets/249e4830-95c1-492d-8f52-da754bf530d1)*  
 
 ---
-Here's an updated version with a new heading:  
+ 
 
 ---
 
@@ -49,7 +49,7 @@ These projects demonstrate my growing expertise in Tableau and my ability to tur
 
 --- 
 
-Here's an updated version with a new heading:  
+
 
 ---
 
