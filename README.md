@@ -14,7 +14,7 @@ This repository showcases three interactive Tableau dashboards, each providing a
 
 #### **1. Netflix Dashboard**  
 Explore Netflix's vast content library with insights into popular genres, release trends, and regional preferences. This dashboard enables users to interact with data for a deep dive into Netflix's offerings.  
-# [**View Dashboard**](#) (https://public.tableau.com/views/tablaueprojectnetflix/NETFLIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)* 
+ [**View Dashboard**](#) (https://public.tableau.com/views/tablaueprojectnetflix/NETFLIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)* 
 **Screenshot**:  
 ![Netflix Dashboard Screenshot](#)  *(![netflix](https://github.com/user-attachments/assets/ec070d48-8f13-43ec-8007-2f68ad015bd7)*  
 
