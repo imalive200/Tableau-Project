@@ -31,5 +31,40 @@ Track and visualize the global impact of COVID-19 with data on cases, recoveries
 ![COVID-19 Dashboard Screenshot](#) *(![covid 19](https://github.com/user-attachments/assets/249e4830-95c1-492d-8f52-da754bf530d1)*  
 
 ---
+Here's an updated version with a new heading:  
+
+---
+
+### Data Visualization Journey with Tableau
+
+This repository highlights my journey in mastering Tableau through the creation of three data visualization dashboards. Each project showcases key skills in:
+
+- **Data Connection & Preparation**: Importing and transforming data from various sources for analysis.  
+- **Dashboard Design**: Crafting interactive and visually compelling dashboards tailored to specific analytical goals.  
+- **Data Analysis**: Utilizing Tableau features such as calculated fields, filters, and parameters to uncover insights.  
+- **Storytelling**: Presenting data-driven narratives through dashboards for clear and impactful communication.  
+- **User Interaction**: Enhancing user experience with interactive features like dropdowns, tooltips, and filters.  
+
+These projects demonstrate my growing expertise in Tableau and my ability to turn raw data into actionable insights. Check out the dashboards to explore the stories behind the data!  
+
+--- 
+
+Here's an updated version with a new heading:  
+
+---
+
+### Data Visualization Journey with Tableau
+
+This repository highlights my journey in mastering Tableau through the creation of three data visualization dashboards. Each project showcases key skills in:
+
+- **Data Connection & Preparation**: Importing and transforming data from various sources for analysis.  
+- **Dashboard Design**: Crafting interactive and visually compelling dashboards tailored to specific analytical goals.  
+- **Data Analysis**: Utilizing Tableau features such as calculated fields, filters, and parameters to uncover insights.  
+- **Storytelling**: Presenting data-driven narratives through dashboards for clear and impactful communication.  
+- **User Interaction**: Enhancing user experience with interactive features like dropdowns, tooltips, and filters.  
+
+These projects demonstrate my growing expertise in Tableau and my ability to turn raw data into actionable insights. Check out the dashboards to explore the stories behind the data!  
+
+--- 
 
 
