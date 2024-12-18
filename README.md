@@ -7,9 +7,9 @@ This repository showcases three interactive Tableau dashboards, each providing a
 
 ### Direct Links to Dashboards  
 #### **1. Netflix Dashboard**   *(https://public.tableau.com/views/tablaueprojectnetflix/NETFLIX?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
-2. [IBM HR Dashboard](#) *(https://public.tableau.com/views/IBMHR_17293344133780/IBMHRdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
-3. [COVID-19 Dashboard](#) *(https://public.tableau.com/views/ProjectCovid19_17291636012140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
-1. [Netflix Dashboard](#)
+#### **2. IBM HR Dashboard**   *(https://public.tableau.com/views/IBMHR_17293344133780/IBMHRdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
+#### **3. COVID-19 Dashboard** *(https://public.tableau.com/views/ProjectCovid19_17291636012140/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
+
 ### Projects Overview
 
 #### **1. Netflix Dashboard**  
