@@ -18,11 +18,19 @@ Explore Netflix's vast content library with insights into popular genres, releas
 **Screenshot**:  
 ![Netflix Dashboard Screenshot](#)  *(![netflix](https://github.com/user-attachments/assets/ec070d48-8f13-43ec-8007-2f68ad015bd7)*  
 
+---
+
+---
+
 #### **2. IBM HR Dashboard**  
 Analyze IBM's HR dataset with a focus on key workforce metrics like attrition, satisfaction, and performance. This dashboard offers a comprehensive view of factors influencing employee retention and productivity.  
 [**View Dashboard**](#)  *(https://public.tableau.com/views/IBMHR_17293344133780/IBMHRdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
 **Screenshot**:  
 ![IBM HR Dashboard Screenshot](#) *(![ibm dashboard](https://github.com/user-attachments/assets/8c79af9b-7baf-43fc-a95a-ec7a0a79e8ef)*  
+
+---
+
+---
 
 #### **3. COVID-19 Dashboard**  
 Track and visualize the global impact of COVID-19 with data on cases, recoveries, deaths, and vaccinations. The dashboard enables users to explore trends across countries and timelines interactively.  
